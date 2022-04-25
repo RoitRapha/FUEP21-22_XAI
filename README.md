@@ -6,8 +6,8 @@
 
 *   Paul-Albert Bartlau
 *   Maurice Lucas Dörnte
-*   Tim Dieter Eberhardt ([GitHub](https://github.com/tde96))
-*   Tim Lukas Schröter ([GitHub](https://github.com/Timmey160593), [LinkedIn](https://www.linkedin.com/in/tim-eberhardt-8a27a4196/))
+*   Tim Dieter Eberhardt ([GitHub](https://github.com/tde96), [LinkedIn](https://www.linkedin.com/in/tim-eberhardt-8a27a4196/))
+*   Tim Lukas Schröter ([GitHub](https://github.com/Timmey160593))
 *   Raphael Wallsberger ([GitHub](https://github.com/RoitRapha), [LinkedIn](https://www.linkedin.com/in/raphael-wallsberger-0698a01b9/))
 
 ## Repository structure
