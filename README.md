@@ -8,7 +8,7 @@
 *   Maurice Lucas Dörnte
 *   Tim Dieter Eberhardt
 *   Tim Lukas Schröter
-*   Raphael Wallsberger
+*   Raphael Wallsberger ([GitHub](https://github.com/RoitRapha), [LinkedIn](https://www.linkedin.com/in/raphael-wallsberger-0698a01b9/))
 
 ## Repository structure
 
