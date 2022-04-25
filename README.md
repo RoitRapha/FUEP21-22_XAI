@@ -7,14 +7,14 @@
 *   Paul-Albert Bartlau
 *   Maurice Lucas Dörnte
 *   Tim Dieter Eberhardt ([GitHub](https://github.com/tde96))
-*   Tim Lukas Schröter ([GitHub](https://github.com/Timmey160593))
+*   Tim Lukas Schröter ([GitHub](https://github.com/Timmey160593), [LinkedIn](https://www.linkedin.com/in/tim-eberhardt-8a27a4196/))
 *   Raphael Wallsberger ([GitHub](https://github.com/RoitRapha), [LinkedIn](https://www.linkedin.com/in/raphael-wallsberger-0698a01b9/))
 
 ## Repository structure
 
 - [Original dataset](frequencyFeatures.csv)
 - [Notebook with the main work](XAI_SHAP_UMAP.ipynb)
-- [Additional Sankey Plot notebook](SankeyPlot.ipynb) 
+- [Additional Soundanalysis notebook](Soundanalysis.ipynb) 
 - [Additional Sankey Plot notebook](SankeyPlot.ipynb) 
 
 ### Dataset - frequencyFeatures.csv
