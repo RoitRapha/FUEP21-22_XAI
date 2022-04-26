@@ -11,7 +11,7 @@
 *   Raphael Wallsberger ([GitHub](https://github.com/RoitRapha), [LinkedIn](https://www.linkedin.com/in/raphael-wallsberger-0698a01b9/))
 
 ## Repository structure
-*Note: all the notebooks are safed as google colab notebooks and therefore easily accessible*
+*Note: all the notebooks are safed as google colab notebooks and therefore easily accessible. Furthermore, there are detailed descriptions within every notebook about the methods and workflows*
 
 - [Original dataset (frequency features + audio recordings)](dataset/)
 - [Notebook with the main work](XAI_SHAP_UMAP_Colab.ipynb)
@@ -34,5 +34,6 @@ In the first step, UMAP is now applied to the dataset to investigate the shapes 
 The following evaluation system is defined to be able to classify the results and the quality. On the one hand, the metrics Accuracy and F1-Score of the XGBoost are compared with different training data. On the other hand, other types of models (KNN and SVM) are trained with these data and their key figures are also evaluated. The three training datasets consist of: 1. the whole dataset, 2. the 10 most important features from TreeSHAP and 3. 10 random features. 
 For an additional auditory representation of the most important features, the data is extracted and then made audible. The extraction includes only the 10 most important features of the data set, the remaining values of the other features are set to zero. Now the data can be transformed from the frequency domain back to the time domain. In the last step, a sound file for each class is generated from the cleaned data. These should give an indication of the type of error when listening.
 
+## Conclusion and future work
 
-
+The results show that TreeSHAP is an efficient method for determining the features of the dataset that are relevant across models. In addition, a clearly audible difference between the individual classes could be detected during the extraction of the audio files. By reducing the dataset to the 10 most important properties using TreeSHAP, the dimensionality could be greatly reduced without significant loss of information (XGB). In the future, a generalization of the applied methodology can be explored by applying it to other datasets. The features contained in the reduced dataset can be investigated for their physical cause. Also, frequency filters could be applied to the important frequencies to produce an output signal for each class upon error detection. Furthermore, the approach can be further investigated as a dimensionality reduction technique. 
