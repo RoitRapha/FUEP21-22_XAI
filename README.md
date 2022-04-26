@@ -4,7 +4,7 @@
 **Team members:**
 
 
-*   Paul-Albert Bartlau
+*   Paul-Albert Bartlau ([GitHub](https://github.com/technojesusB), [LinkedIn](https://www.linkedin.com/in/paul-bartlau-280a2990/))
 *   Maurice Lucas Dörnte
 *   Tim Dieter Eberhardt ([GitHub](https://github.com/tde96), [LinkedIn](https://www.linkedin.com/in/tim-eberhardt-8a27a4196/))
 *   Tim Lukas Schröter ([GitHub](https://github.com/Timmey160593))
@@ -12,13 +12,14 @@
 
 ## Repository structure
 
-- [Original dataset](frequencyFeatures.csv)
+- [Original dataset (frequency features + audio recordings)](dataset/)
 - [Notebook with the main work](XAI_SHAP_UMAP.ipynb)
 - [Additional Soundanalysis notebook](Soundanalysis.ipynb) 
 - [Additional Sankey Plot notebook](SankeyPlot.ipynb) 
+- [The feature ranking over max tree depth export file (used in the main notebook)](feature_ranking_max_depth.xlsx) 
 
 ### Dataset - frequencyFeatures.csv
-The used dataset (file: frequencyFeatrues.csv) is from the following paper and you can download it with the following link:
+The used dataset (file: frequencyFeatrues.csv + audio recording) is from the following paper and you can download it with the following link:
 
 *Paper: S. Matzka, J. Pilz and A. Franke, "Structure-borne and Air-borne Sound Data for Condition Monitoring Applications," 2021 4th International Conference on Artificial Intelligence for Industries (AI4I), 2021, pp. 1-4, doi: 10.1109/AI4I51902.2021.00009.*
 
