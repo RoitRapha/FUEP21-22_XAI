@@ -11,11 +11,12 @@
 *   Raphael Wallsberger ([GitHub](https://github.com/RoitRapha), [LinkedIn](https://www.linkedin.com/in/raphael-wallsberger-0698a01b9/))
 
 ## Repository structure
+*Note: all the notebooks are safed as google colab notebooks and therefore easily accessible*
 
 - [Original dataset (frequency features + audio recordings)](dataset/)
-- [Notebook with the main work](XAI_SHAP_UMAP.ipynb)
-- [Additional Soundanalysis notebook](Soundanalysis.ipynb) 
-- [Additional Sankey Plot notebook](SankeyPlot.ipynb) 
+- [Notebook with the main work](XAI_SHAP_UMAP_Colab.ipynb)
+- [Additional Soundanalysis notebook](Soundanalysis_Colab.ipynb) 
+- [Additional Sankey Plot notebook](Sankey_Plot_Colab.ipynb) 
 - [The feature ranking over max tree depth export file (used in the main notebook)](feature_ranking_max_depth.xlsx) 
 
 ### Dataset - frequencyFeatures.csv
