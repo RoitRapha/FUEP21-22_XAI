@@ -15,7 +15,7 @@
 
 
 *   Paul-Albert Bartlau ([GitHub](https://github.com/technojesusB), [LinkedIn](https://www.linkedin.com/in/paul-bartlau-280a2990/))
-*   Maurice Lucas Dörnte
+*   Maurice Lucas Dörnte [LinkedIn](https://www.linkedin.com/in/maurice-doernte-383b6a144/)
 *   Tim Dieter Eberhardt ([GitHub](https://github.com/tde96), [LinkedIn](https://www.linkedin.com/in/tim-eberhardt-8a27a4196/))
 *   Tim Lukas Schröter ([GitHub](https://github.com/Timmey160593))
 *   Raphael Wallsberger ([GitHub](https://github.com/RoitRapha), [LinkedIn](https://www.linkedin.com/in/raphael-wallsberger-0698a01b9/))
