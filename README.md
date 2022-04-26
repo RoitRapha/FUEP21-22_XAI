@@ -2,7 +2,7 @@
 
 # Project XAI 
 
-![preview](demo.jpeg)
+![preview](heatmap.jpeg)
 
 </div>
 
